@@ -1,0 +1,1 @@
+print("Borikat ko")
