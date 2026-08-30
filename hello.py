@@ -1,2 +1,2 @@
-print("This is the main branch change.")
-print("This line will conflict during merge.")
+print("This is the first file contents")
+print("Grand Theft Auto 6 is here")
